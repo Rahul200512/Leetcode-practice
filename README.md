@@ -6,10 +6,10 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 
 **1 week** in
 
-- **1** LeetCode problems solved (1 Easy, 0 Medium)
+- **2** LeetCode problems solved (2 Easy, 0 Medium)
 - **0** TIL notes
 - **0** utility scripts
-- Focused topics: Array, Binary Search
+- Focused topics: Array, Binary Search, Hash Table
 
 ## What's here
 
@@ -22,6 +22,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 | # | Problem | Difficulty | Topics |
 |---|---------|------------|--------|
 | 0704 | [Binary Search](leetcode-solutions/0704-binary-search.py) | Easy | Array, Binary Search |
+| 0448 | [Find All Numbers Disappeared in an Array](leetcode-solutions/0448-find-all-numbers-disappeared-in-an-array.py) | Easy | Array, Hash Table |
 
 ## LeetCode Progress
 
