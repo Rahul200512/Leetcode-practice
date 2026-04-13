@@ -4,6 +4,12 @@ Breakdown of problems by topic.
 
 | Topic | Count |
 |-------|-------|
-| Array | 2 ██ |
+| Array | 3 ███ |
+| Hash Table | 2 ██ |
 | Binary Search | 1 █ |
-| Hash Table | 1 █ |
+| Divide and Conquer | 1 █ |
+| Sorting | 1 █ |
+| Heap (Priority Queue) | 1 █ |
+| Bucket Sort | 1 █ |
+| Counting | 1 █ |
+| Quickselect | 1 █ |
