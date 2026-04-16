@@ -13,3 +13,4 @@ Breakdown of problems by topic.
 | Bucket Sort | 1 █ |
 | Counting | 1 █ |
 | Quickselect | 1 █ |
+| Database | 1 █ |
