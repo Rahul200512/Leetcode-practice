@@ -14,3 +14,6 @@ Breakdown of problems by topic.
 | Counting | 1 █ |
 | Quickselect | 1 █ |
 | Database | 1 █ |
+| Stack | 1 █ |
+| Tree | 1 █ |
+| Depth-First Search | 1 █ |
