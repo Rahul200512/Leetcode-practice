@@ -4,8 +4,8 @@ Breakdown of problems by topic.
 
 | Topic | Count |
 |-------|-------|
-| Array | 3 ███ |
-| Hash Table | 2 ██ |
+| Array | 4 ████ |
+| Hash Table | 3 ███ |
 | Binary Search | 1 █ |
 | Divide and Conquer | 1 █ |
 | Sorting | 1 █ |

@@ -6,7 +6,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 
 **1 week** in
 
-- **5** LeetCode problems solved (4 Easy, 1 Medium)
+- **6** LeetCode problems solved (5 Easy, 1 Medium)
 - **1** TIL notes
 - **0** utility scripts
 - Focused topics: Array, Hash Table, Binary Search, Divide and Conquer, Sorting
@@ -26,6 +26,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 | 0347 | [Top K Frequent Elements](leetcode-solutions/0347-top-k-frequent-elements.py) | Medium | Array, Hash Table, Divide and Conquer |
 | 0197 | [Rising Temperature](leetcode-solutions/0197-rising-temperature.py) | Easy | Database |
 | 0589 | [N-ary Tree Preorder Traversal](leetcode-solutions/0589-n-ary-tree-preorder-traversal.py) | Easy | Stack, Tree, Depth-First Search |
+| 0001 | [Two Sum](leetcode-solutions/0001-two-sum.py) | Easy | Array, Hash Table |
 
 ## LeetCode Progress
 
