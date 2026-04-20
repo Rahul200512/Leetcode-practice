@@ -17,3 +17,6 @@ Breakdown of problems by topic.
 | Stack | 1 █ |
 | Tree | 1 █ |
 | Depth-First Search | 1 █ |
+| Math | 1 █ |
+| Bit Manipulation | 1 █ |
+| Recursion | 1 █ |
