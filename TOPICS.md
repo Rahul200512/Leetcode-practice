@@ -20,3 +20,5 @@ Breakdown of problems by topic.
 | Math | 1 █ |
 | Bit Manipulation | 1 █ |
 | Recursion | 1 █ |
+| String | 1 █ |
+| Simulation | 1 █ |
