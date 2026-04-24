@@ -6,10 +6,10 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 
 **2 weeks** in
 
-- **8** LeetCode problems solved (7 Easy, 1 Medium)
+- **9** LeetCode problems solved (8 Easy, 1 Medium)
 - **3** TIL notes
 - **0** utility scripts
-- Focused topics: Array, Hash Table, Binary Search, Divide and Conquer, Sorting
+- Focused topics: Array, Hash Table, Math, String, Simulation
 
 ## What's here
 
@@ -29,6 +29,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 | 0001 | [Two Sum](leetcode-solutions/0001-two-sum.py) | Easy | Array, Hash Table |
 | 0231 | [Power of Two](leetcode-solutions/0231-power-of-two.py) | Easy | Math, Bit Manipulation, Recursion |
 | 0657 | [Robot Return to Origin](leetcode-solutions/0657-robot-return-to-origin.py) | Easy | String, Simulation |
+| 0412 | [Fizz Buzz](leetcode-solutions/0412-fizz-buzz.py) | Easy | Math, String, Simulation |
 
 ## LeetCode Progress
 

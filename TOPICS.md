@@ -6,6 +6,9 @@ Breakdown of problems by topic.
 |-------|-------|
 | Array | 4 ████ |
 | Hash Table | 3 ███ |
+| Math | 2 ██ |
+| String | 2 ██ |
+| Simulation | 2 ██ |
 | Binary Search | 1 █ |
 | Divide and Conquer | 1 █ |
 | Sorting | 1 █ |
@@ -17,8 +20,5 @@ Breakdown of problems by topic.
 | Stack | 1 █ |
 | Tree | 1 █ |
 | Depth-First Search | 1 █ |
-| Math | 1 █ |
 | Bit Manipulation | 1 █ |
 | Recursion | 1 █ |
-| String | 1 █ |
-| Simulation | 1 █ |
