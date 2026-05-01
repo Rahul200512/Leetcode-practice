@@ -4,8 +4,8 @@ Breakdown of problems by topic.
 
 | Topic | Count |
 |-------|-------|
-| Array | 4 ████ |
-| Hash Table | 3 ███ |
+| Array | 5 █████ |
+| Hash Table | 4 ████ |
 | String | 3 ███ |
 | Math | 2 ██ |
 | Simulation | 2 ██ |
