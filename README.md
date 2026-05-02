@@ -4,9 +4,9 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 
 ## Progress
 
-**2 weeks** in
+**3 weeks** in
 
-- **11** LeetCode problems solved (9 Easy, 2 Medium)
+- **12** LeetCode problems solved (9 Easy, 3 Medium)
 - **4** TIL notes
 - **0** utility scripts
 - Focused topics: Array, Hash Table, String, Math, Simulation
@@ -32,6 +32,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 | 0412 | [Fizz Buzz](leetcode-solutions/0412-fizz-buzz.py) | Easy | Math, String, Simulation |
 | 0005 | [Longest Palindromic Substring](leetcode-solutions/0005-longest-palindromic-substring.py) | Medium | Two Pointers, String, Dynamic Programming |
 | 0697 | [Degree of an Array](leetcode-solutions/0697-degree-of-an-array.py) | Easy | Array, Hash Table |
+| 0077 | [Combinations](leetcode-solutions/0077-combinations.py) | Medium | Backtracking |
 
 ## LeetCode Progress
 

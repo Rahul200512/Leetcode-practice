@@ -24,3 +24,4 @@ Breakdown of problems by topic.
 | Recursion | 1 █ |
 | Two Pointers | 1 █ |
 | Dynamic Programming | 1 █ |
+| Backtracking | 1 █ |
