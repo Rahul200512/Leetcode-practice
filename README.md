@@ -6,7 +6,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 
 **3 weeks** in
 
-- **12** LeetCode problems solved (9 Easy, 3 Medium)
+- **13** LeetCode problems solved (9 Easy, 4 Medium)
 - **4** TIL notes
 - **0** utility scripts
 - Focused topics: Array, Hash Table, String, Math, Simulation
@@ -33,6 +33,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 | 0005 | [Longest Palindromic Substring](leetcode-solutions/0005-longest-palindromic-substring.py) | Medium | Two Pointers, String, Dynamic Programming |
 | 0697 | [Degree of an Array](leetcode-solutions/0697-degree-of-an-array.py) | Easy | Array, Hash Table |
 | 0077 | [Combinations](leetcode-solutions/0077-combinations.py) | Medium | Backtracking |
+| 0304 | [Range Sum Query 2D - Immutable](leetcode-solutions/0304-range-sum-query-2d-immutable.py) | Medium | Array, Design, Matrix |
 
 ## LeetCode Progress
 

@@ -4,7 +4,7 @@ Breakdown of problems by topic.
 
 | Topic | Count |
 |-------|-------|
-| Array | 5 █████ |
+| Array | 6 ██████ |
 | Hash Table | 4 ████ |
 | String | 3 ███ |
 | Math | 2 ██ |
@@ -25,3 +25,6 @@ Breakdown of problems by topic.
 | Two Pointers | 1 █ |
 | Dynamic Programming | 1 █ |
 | Backtracking | 1 █ |
+| Design | 1 █ |
+| Matrix | 1 █ |
+| Prefix Sum | 1 █ |
