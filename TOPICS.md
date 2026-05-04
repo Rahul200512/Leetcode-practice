@@ -4,7 +4,7 @@ Breakdown of problems by topic.
 
 | Topic | Count |
 |-------|-------|
-| Array | 6 ██████ |
+| Array | 7 ███████ |
 | Hash Table | 4 ████ |
 | String | 3 ███ |
 | Math | 2 ██ |
