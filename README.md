@@ -7,7 +7,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 **3 weeks** in
 
 - **14** LeetCode problems solved (10 Easy, 4 Medium)
-- **4** TIL notes
+- **5** TIL notes
 - **0** utility scripts
 - Focused topics: Array, Hash Table, String, Math, Simulation
 
