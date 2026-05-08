@@ -6,10 +6,10 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 
 **3 weeks** in
 
-- **14** LeetCode problems solved (10 Easy, 4 Medium)
+- **15** LeetCode problems solved (10 Easy, 5 Medium)
 - **5** TIL notes
 - **0** utility scripts
-- Focused topics: Array, Hash Table, String, Math, Simulation
+- Focused topics: Array, Hash Table, String, Sorting, Math
 
 ## What's here
 
@@ -35,6 +35,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 | 0077 | [Combinations](leetcode-solutions/0077-combinations.py) | Medium | Backtracking |
 | 0304 | [Range Sum Query 2D - Immutable](leetcode-solutions/0304-range-sum-query-2d-immutable.py) | Medium | Array, Design, Matrix |
 | 0674 | [Longest Continuous Increasing Subsequence](leetcode-solutions/0674-longest-continuous-increasing-subsequence.py) | Easy | Array |
+| 0016 | [3Sum Closest](leetcode-solutions/0016-3sum-closest.py) | Medium | Array, Two Pointers, Sorting |
 
 ## LeetCode Progress
 

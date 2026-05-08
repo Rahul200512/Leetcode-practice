@@ -4,14 +4,15 @@ Breakdown of problems by topic.
 
 | Topic | Count |
 |-------|-------|
-| Array | 7 ███████ |
+| Array | 8 ████████ |
 | Hash Table | 4 ████ |
 | String | 3 ███ |
+| Sorting | 2 ██ |
 | Math | 2 ██ |
 | Simulation | 2 ██ |
+| Two Pointers | 2 ██ |
 | Binary Search | 1 █ |
 | Divide and Conquer | 1 █ |
-| Sorting | 1 █ |
 | Heap (Priority Queue) | 1 █ |
 | Bucket Sort | 1 █ |
 | Counting | 1 █ |
@@ -22,7 +23,6 @@ Breakdown of problems by topic.
 | Depth-First Search | 1 █ |
 | Bit Manipulation | 1 █ |
 | Recursion | 1 █ |
-| Two Pointers | 1 █ |
 | Dynamic Programming | 1 █ |
 | Backtracking | 1 █ |
 | Design | 1 █ |
