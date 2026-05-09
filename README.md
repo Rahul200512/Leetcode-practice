@@ -4,12 +4,12 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 
 ## Progress
 
-**3 weeks** in
+📈 **4 weeks** of consistent practice
 
-- **15** LeetCode problems solved (10 Easy, 5 Medium)
+- **16** LeetCode problems solved (11 Easy, 5 Medium)
 - **5** TIL notes
 - **0** utility scripts
-- Focused topics: Array, Hash Table, String, Sorting, Math
+- Focused topics: Array, Hash Table, Math, String, Sorting
 
 ## What's here
 
@@ -36,6 +36,7 @@ My daily coding practice — LeetCode solutions, TIL notes, and small utility sc
 | 0304 | [Range Sum Query 2D - Immutable](leetcode-solutions/0304-range-sum-query-2d-immutable.py) | Medium | Array, Design, Matrix |
 | 0674 | [Longest Continuous Increasing Subsequence](leetcode-solutions/0674-longest-continuous-increasing-subsequence.py) | Easy | Array |
 | 0016 | [3Sum Closest](leetcode-solutions/0016-3sum-closest.py) | Medium | Array, Two Pointers, Sorting |
+| 0507 | [Perfect Number](leetcode-solutions/0507-perfect-number.py) | Easy | Math |
 
 ## LeetCode Progress
 

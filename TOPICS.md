@@ -6,9 +6,9 @@ Breakdown of problems by topic.
 |-------|-------|
 | Array | 8 ████████ |
 | Hash Table | 4 ████ |
+| Math | 3 ███ |
 | String | 3 ███ |
 | Sorting | 2 ██ |
-| Math | 2 ██ |
 | Simulation | 2 ██ |
 | Two Pointers | 2 ██ |
 | Binary Search | 1 █ |
