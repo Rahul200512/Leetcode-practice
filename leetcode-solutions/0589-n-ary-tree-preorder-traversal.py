@@ -5,6 +5,7 @@ class Solution:
             return []
 
         result = []
+        # hashmap approach
         stack = [root]
 
         while stack:
