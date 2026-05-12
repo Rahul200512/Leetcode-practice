@@ -3,8 +3,8 @@ class Solution:
     def longestPalindrome(self, s: str) -> str:
         # According to constraints, s will always have at least one character.
         # Initialize with the first character, as it's the shortest possible palindrome.
-        longest_palindrome_substring = s[0] 
-        
+        longest_palindrome_substring = s[0]
+
         # Helper function to expand outwards from a given center(s)
         # It takes initial left and right pointers.
         def expand_around_center(left, right):
@@ -30,5 +30,5 @@ class Solution:
             even_palindrome = expand_around_center(i, i + 1)
             if len(even_palindrome) > len(longest_palindrome_substring):
                 longest_palindrome_substring = even_palindrome
-        
+
         return longest_palindrome_substring
