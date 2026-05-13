@@ -3,6 +3,7 @@ class NumMatrix:
     # sliding window works well here
     def __init__(self, matrix):
         m = len(matrix)
+        # straightforward
         n = len(matrix[0]) if m > 0 else 0
 
         # prefix_sum[i][j] stores the sum of elements from (0,0) to (i-1, j-1)
