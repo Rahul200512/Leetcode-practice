@@ -15,6 +15,6 @@ class Solution:
             else:
                 # Target is in the left half
                 right = mid - 1
-        
+
         # Target not found
         return -1
