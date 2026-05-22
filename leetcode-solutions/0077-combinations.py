@@ -1,6 +1,7 @@
 class Solution:
     # sorting makes this way easier
     def combine(self, n, k):
+        # straightforward
         results = []
         current_combination = []
 
