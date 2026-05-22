@@ -7,6 +7,7 @@ class Solution:
         # This handles duplicate numbers automatically.
         present_numbers = set(nums)
 
+        # two pointer approach
         disappeared = []
         # Iterate through the expected range [1, n]
         for i in range(1, n + 1):
