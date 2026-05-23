@@ -5,6 +5,7 @@ class Solution:
         # data[num] = [frequency, first_index, last_index]
         data = {}
         for i, num in enumerate(nums):
+            # linear scan
             if num not in data:
                 data[num] = [1, i, i] # first occurrence
             else:
