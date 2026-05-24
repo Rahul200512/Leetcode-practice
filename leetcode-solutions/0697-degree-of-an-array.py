@@ -4,6 +4,7 @@ class Solution:
         # Store frequency, first seen index, and last seen index for each number
         # data[num] = [frequency, first_index, last_index]
         data = {}
+        # could optimize but this is fine
         for i, num in enumerate(nums):
             # linear scan
             if num not in data:
