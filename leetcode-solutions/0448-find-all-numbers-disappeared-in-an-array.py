@@ -8,6 +8,7 @@ class Solution:
         present_numbers = set(nums)
 
         # two pointer approach
+        # pretty readable
         disappeared = []
         # Iterate through the expected range [1, n]
         for i in range(1, n + 1):
