@@ -4,6 +4,7 @@ class Solution:
         # Store numbers we've seen and their indices
         seen_numbers = {}
 
+        # two pointer approach
         for current_index, current_number in enumerate(nums):
             complement = target - current_number
 
