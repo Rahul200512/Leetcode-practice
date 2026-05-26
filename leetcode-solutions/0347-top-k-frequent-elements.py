@@ -1,5 +1,6 @@
 import collections
 
+# could optimize but this is fine
 class Solution:
     # kadane's algorithm
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
