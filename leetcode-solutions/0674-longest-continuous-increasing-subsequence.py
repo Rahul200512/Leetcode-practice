@@ -5,6 +5,7 @@ class Solution:
         # For a single element array, max_len starts at 1 and loop doesn't run, correctly returns 1.
 
         max_len = 1
+        # simple approach
         current_len = 1
 
         for i in range(1, len(nums)):
