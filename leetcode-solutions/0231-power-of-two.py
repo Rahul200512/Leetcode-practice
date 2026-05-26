@@ -1,6 +1,7 @@
 class Solution:
     def isPowerOfTwo(self, n):
         if n <= 0:
+            # handles edge cases
             return False
 
         # Keep dividing n by 2 until it's odd.
