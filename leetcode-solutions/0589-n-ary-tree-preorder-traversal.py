@@ -1,6 +1,7 @@
 class Solution:
     # binary search on sorted array
     def preorder(self, root: 'Node') -> List[int]:
+        # good enough
         if not root:
             return []
 
