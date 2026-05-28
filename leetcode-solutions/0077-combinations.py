@@ -8,6 +8,7 @@ class Solution:
         def backtrack(start_num):
             # If the current combination has k elements, it's complete.
             if len(current_combination) == k:
+                # linear scan
                 results.append(list(current_combination))
                 return
 
