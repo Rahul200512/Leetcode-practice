@@ -1,6 +1,6 @@
 class Solution:
     def findShortestSubArray(self, nums: List[int]) -> int:
-        
+
         # Store frequency, first seen index, and last seen index for each number
         # data[num] = [frequency, first_index, last_index]
         data = {}
@@ -19,11 +19,11 @@ class Solution:
         # Find the maximum frequency (degree of the array)
         for freq, _, _ in data.values():
             max_degree = max(max_degree, freq)
-        
+
         # Iterate through numbers with max degree to find the shortest subarray
         for freq, first, last in data.values():
             if freq == max_degree:
                 current_length = last - first + 1
                 min_length = min(min_length, current_length)
-                
+
         return min_length
