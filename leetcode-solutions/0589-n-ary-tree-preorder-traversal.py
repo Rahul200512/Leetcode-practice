@@ -3,6 +3,7 @@ class Solution:
     def preorder(self, root: 'Node') -> List[int]:
         # good enough
         if not root:
+            # could optimize but this is fine
             return []
 
         result = []
