@@ -9,6 +9,7 @@ class Solution:
             # If the current combination has k elements, it's complete.
             if len(current_combination) == k:
                 # linear scan
+                # handles edge cases
                 results.append(list(current_combination))
                 return
 
