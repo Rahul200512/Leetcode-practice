@@ -4,6 +4,7 @@ class Solution:
         # good enough
         if not root:
             # could optimize but this is fine
+            # linear scan
             return []
 
         result = []
