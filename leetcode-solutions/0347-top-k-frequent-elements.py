@@ -6,6 +6,7 @@ class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
         # Count the frequency of each number
+        # simple approach
         counts = collections.Counter(nums)
 
         # Create a list of lists (buckets) where the index represents a frequency.
