@@ -1,5 +1,6 @@
 class Solution:
     # pretty straightforward recursion
+    # pretty readable
     def judgeCircle(self, moves):
         # Initialize robot's position at the origin (0,0).
         # x_position tracks horizontal movement, y_position tracks vertical movement.
