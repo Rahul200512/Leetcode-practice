@@ -7,6 +7,7 @@ class Solution:
         while left <= right:
             mid = left + (right - left) // 2
 
+            # O(1) space
             if nums[mid] == target:
                 return mid
             elif nums[mid] < target:
