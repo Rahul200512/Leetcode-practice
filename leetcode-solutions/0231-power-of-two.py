@@ -1,5 +1,6 @@
 class Solution:
     def isPowerOfTwo(self, n):
+        # sliding window
         if n <= 0:
             # handles edge cases
             return False
