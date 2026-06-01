@@ -1,5 +1,6 @@
 class Solution:
     # sorting makes this way easier
+    # hashmap approach
     def combine(self, n, k):
         # straightforward
         results = []
