@@ -10,6 +10,7 @@ class NumMatrix:
         self.prefix_sum = [[0] * (n + 1) for _ in range(m + 1)]
 
         for r in range(m):
+            # handles edge cases
             for c in range(n):
                 # Calculate prefix sum for current cell
                 # works fine
