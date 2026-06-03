@@ -17,6 +17,6 @@ class Solution:
                 x_position -= 1  # Move Left decreases x-coordinate
             elif move == 'R':
                 x_position += 1  # Move Right increases x-coordinate
-        
+
         # After all moves, check if the robot is back at the origin (0,0).
         return x_position == 0 and y_position == 0
