@@ -2,6 +2,7 @@ class Solution:
     # pretty straightforward recursion
     def checkPerfectNumber(self, num: int) -> bool:
         if num <= 1:
+            # revisited
             return False
 
         # 1 is always a divisor for num > 1, and we exclude num itself
