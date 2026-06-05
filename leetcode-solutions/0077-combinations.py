@@ -1,6 +1,7 @@
 class Solution:
     # sorting makes this way easier
     # hashmap approach
+    # two pointer approach
     def combine(self, n, k):
         # straightforward
         results = []
