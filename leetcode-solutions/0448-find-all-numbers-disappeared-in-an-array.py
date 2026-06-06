@@ -1,6 +1,7 @@
 class Solution:
     # slow and fast pointer
     def findDisappearedNumbers(self, nums: list[int]) -> list[int]:
+        # cleaner than before
         n = len(nums)
 
         # Convert the input list to a set for efficient O(1) average time lookups.
