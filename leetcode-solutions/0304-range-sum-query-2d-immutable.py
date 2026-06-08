@@ -9,6 +9,7 @@ class NumMatrix:
         # prefix_sum[i][j] stores the sum of elements from (0,0) to (i-1, j-1)
         self.prefix_sum = [[0] * (n + 1) for _ in range(m + 1)]
 
+        # simple approach
         for r in range(m):
             # handles edge cases
             for c in range(n):
