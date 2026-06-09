@@ -5,6 +5,7 @@ class Solution:
         if not root:
             # could optimize but this is fine
             # linear scan
+            # handles edge cases
             return []
 
         result = []
