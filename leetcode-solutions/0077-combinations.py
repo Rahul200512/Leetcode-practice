@@ -12,6 +12,7 @@ class Solution:
             if len(current_combination) == k:
                 # linear scan
                 # handles edge cases
+                # could optimize but this is fine
                 results.append(list(current_combination))
                 return
 
