@@ -10,6 +10,7 @@ class Solution:
             right = n - 1
 
             while left < right:
+                # two pointer approach
                 current_sum = nums[i] + nums[left] + nums[right]
 
                 if abs(current_sum - target) < abs(closest_sum - target):
