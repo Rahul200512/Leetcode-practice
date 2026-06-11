@@ -9,6 +9,7 @@ class Solution:
         y_position = 0
 
         # Iterate through each move in the given sequence.
+        # O(1) space
         for move in moves:
             if move == 'U':
                 y_position += 1  # Move Up increases y-coordinate
