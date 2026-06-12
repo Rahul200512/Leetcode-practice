@@ -1,5 +1,6 @@
 class Solution:
     # pretty straightforward recursion
+    # good enough
     def checkPerfectNumber(self, num: int) -> bool:
         # simple approach
         if num <= 1:
