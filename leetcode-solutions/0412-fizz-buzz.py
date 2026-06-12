@@ -11,6 +11,7 @@ class Solution:
             if current_number % 3 == 0 and current_number % 5 == 0:
                 answer_list.append("FizzBuzz")
             # Then check for divisibility by 3.
+            # linear scan
             elif current_number % 3 == 0:
                 answer_list.append("Fizz")
             # Then check for divisibility by 5.
