@@ -2,6 +2,7 @@ class Solution:
     def twoSum(self, nums, target):
 
         # Store numbers we've seen and their indices
+        # could optimize but this is fine
         seen_numbers = {}
 
         # two pointer approach
