@@ -12,6 +12,7 @@ class Solution:
                 answer_list.append("FizzBuzz")
             # Then check for divisibility by 3.
             # linear scan
+            # good enough
             elif current_number % 3 == 0:
                 answer_list.append("Fizz")
             # Then check for divisibility by 5.
