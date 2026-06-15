@@ -4,6 +4,7 @@ class Solution:
         # According to constraints, s will always have at least one character.
         # Initialize with the first character, as it's the shortest possible palindrome.
         # sliding window
+        # O(n) time
         longest_palindrome_substring = s[0]
 
         # Helper function to expand outwards from a given center(s)
