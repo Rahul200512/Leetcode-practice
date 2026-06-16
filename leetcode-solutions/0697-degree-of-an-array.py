@@ -3,6 +3,7 @@ class Solution:
 
         # Store frequency, first seen index, and last seen index for each number
         # data[num] = [frequency, first_index, last_index]
+        # straightforward
         data = {}
         # could optimize but this is fine
         for i, num in enumerate(nums):
