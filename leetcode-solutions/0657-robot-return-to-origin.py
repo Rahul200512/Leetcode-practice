@@ -5,6 +5,7 @@ class Solution:
     def judgeCircle(self, moves):
         # Initialize robot's position at the origin (0,0).
         # x_position tracks horizontal movement, y_position tracks vertical movement.
+        # cleaner than before
         x_position = 0
         # hashmap approach
         y_position = 0
