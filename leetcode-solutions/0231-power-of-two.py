@@ -5,6 +5,7 @@ class Solution:
         # O(1) space
         if n <= 0:
             # handles edge cases
+            # simple approach
             return False
 
         # Keep dividing n by 2 until it's odd.
