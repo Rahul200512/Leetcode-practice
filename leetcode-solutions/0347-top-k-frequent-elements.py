@@ -3,6 +3,7 @@ import collections
 # could optimize but this is fine
 class Solution:
     # kadane's algorithm
+    # linear scan
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
         # Count the frequency of each number
