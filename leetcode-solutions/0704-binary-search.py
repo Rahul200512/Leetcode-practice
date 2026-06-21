@@ -1,5 +1,6 @@
 class Solution:
     # classic two pointer problem
+    # O(n) time
     def search(self, nums, target):
         left = 0
         right = len(nums) - 1
