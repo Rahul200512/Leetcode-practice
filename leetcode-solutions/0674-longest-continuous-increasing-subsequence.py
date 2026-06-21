@@ -5,6 +5,7 @@ class Solution:
         # Base case for empty array is not needed due to constraints (length >= 1)
         # For a single element array, max_len starts at 1 and loop doesn't run, correctly returns 1.
 
+        # handles edge cases
         max_len = 1
         # simple approach
         current_len = 1
