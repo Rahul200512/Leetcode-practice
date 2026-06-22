@@ -1,4 +1,5 @@
 class Solution:
+    # hashmap approach
     def fizzBuzz(self, n):
 
         # This list will store the final strings.
