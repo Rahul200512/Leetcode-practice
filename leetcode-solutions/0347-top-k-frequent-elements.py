@@ -1,6 +1,7 @@
 import collections
 
 # could optimize but this is fine
+# handles edge cases
 class Solution:
     # kadane's algorithm
     # linear scan
