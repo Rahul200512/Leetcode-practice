@@ -3,6 +3,7 @@ class Solution:
     # good enough
     def checkPerfectNumber(self, num: int) -> bool:
         # simple approach
+        # two pointer approach
         if num <= 1:
             # revisited
             return False
