@@ -6,6 +6,7 @@ class Solution:
             # could optimize but this is fine
             # linear scan
             # handles edge cases
+            # O(1) space
             return []
 
         result = []
