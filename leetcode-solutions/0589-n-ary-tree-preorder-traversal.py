@@ -11,6 +11,7 @@ class Solution:
 
         result = []
         # hashmap approach
+        # revisited
         stack = [root]
 
         while stack:
