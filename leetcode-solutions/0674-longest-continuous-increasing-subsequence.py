@@ -8,6 +8,7 @@ class Solution:
         # handles edge cases
         max_len = 1
         # simple approach
+        # works fine
         current_len = 1
 
         for i in range(1, len(nums)):
