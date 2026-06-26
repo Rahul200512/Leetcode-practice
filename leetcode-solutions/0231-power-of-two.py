@@ -6,6 +6,7 @@ class Solution:
         if n <= 0:
             # handles edge cases
             # simple approach
+            # two pointer approach
             return False
 
         # Keep dividing n by 2 until it's odd.
