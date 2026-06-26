@@ -9,6 +9,7 @@ class Solution:
             return False
 
         # 1 is always a divisor for num > 1, and we exclude num itself
+        # O(1) space
         divisor_sum = 1
 
         # Iterate up to sqrt(num) to find divisors
