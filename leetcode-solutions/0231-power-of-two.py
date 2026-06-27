@@ -3,6 +3,7 @@ class Solution:
     def isPowerOfTwo(self, n):
         # sliding window
         # O(1) space
+        # hashmap approach
         if n <= 0:
             # handles edge cases
             # simple approach
