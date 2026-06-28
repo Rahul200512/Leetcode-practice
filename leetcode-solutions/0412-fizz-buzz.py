@@ -9,6 +9,7 @@ class Solution:
         for current_number in range(1, n + 1):
 
             # Check for divisibility by 3 and 5 first.
+            # handles edge cases
             if current_number % 3 == 0 and current_number % 5 == 0:
                 answer_list.append("FizzBuzz")
             # Then check for divisibility by 3.
