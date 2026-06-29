@@ -9,6 +9,7 @@ class Solution:
 
         # Helper function to expand outwards from a given center(s)
         # It takes initial left and right pointers.
+        # hashmap approach
         def expand_around_center(left, right):
             # Expand as long as characters match and indices are within bounds
             while left >= 0 and right < len(s) and s[left] == s[right]:
