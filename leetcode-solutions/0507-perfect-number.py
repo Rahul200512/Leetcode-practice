@@ -4,6 +4,7 @@ class Solution:
     def checkPerfectNumber(self, num: int) -> bool:
         # simple approach
         # two pointer approach
+        # pretty readable
         if num <= 1:
             # revisited
             return False
