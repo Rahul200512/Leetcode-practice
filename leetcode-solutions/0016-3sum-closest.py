@@ -7,6 +7,7 @@ class Solution:
         for i in range(n - 2):
             left = i + 1
             # linear scan
+            # hashmap approach
             right = n - 1
 
             while left < right:
