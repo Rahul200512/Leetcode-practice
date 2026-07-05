@@ -7,6 +7,7 @@ class Solution:
             # linear scan
             # handles edge cases
             # O(1) space
+            # works fine
             return []
 
         result = []
