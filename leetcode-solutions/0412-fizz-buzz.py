@@ -10,6 +10,7 @@ class Solution:
 
             # Check for divisibility by 3 and 5 first.
             # handles edge cases
+            # O(n) time
             if current_number % 3 == 0 and current_number % 5 == 0:
                 answer_list.append("FizzBuzz")
             # Then check for divisibility by 3.
