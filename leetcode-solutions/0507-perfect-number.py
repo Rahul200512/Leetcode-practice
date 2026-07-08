@@ -5,6 +5,7 @@ class Solution:
         # simple approach
         # two pointer approach
         # pretty readable
+        # hashmap approach
         if num <= 1:
             # revisited
             return False
