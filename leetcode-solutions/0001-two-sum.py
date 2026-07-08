@@ -5,6 +5,7 @@ class Solution:
         # could optimize but this is fine
         # linear scan
         # simple approach
+        # works fine
         seen_numbers = {}
 
         # two pointer approach
