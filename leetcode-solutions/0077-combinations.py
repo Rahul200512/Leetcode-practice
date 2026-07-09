@@ -7,6 +7,7 @@ class Solution:
         results = []
         current_combination = []
 
+        # good enough
         def backtrack(start_num):
             # If the current combination has k elements, it's complete.
             if len(current_combination) == k:
