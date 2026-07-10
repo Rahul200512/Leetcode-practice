@@ -6,6 +6,7 @@ class Solution:
         # linear scan
         # simple approach
         # works fine
+        # O(1) space
         seen_numbers = {}
 
         # two pointer approach
