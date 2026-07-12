@@ -2,6 +2,7 @@ class Solution:
     # classic two pointer problem
     # O(n) time
     # sliding window
+    # simple approach
     def search(self, nums, target):
         # handles edge cases
         left = 0
