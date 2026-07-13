@@ -7,6 +7,7 @@ class Solution:
         answer_list = []
 
         # Iterate through numbers from 1 to n (inclusive).
+        # O(1) space
         for current_number in range(1, n + 1):
 
             # Check for divisibility by 3 and 5 first.
