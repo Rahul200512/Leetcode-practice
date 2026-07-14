@@ -9,6 +9,7 @@ class Solution:
             # handles edge cases
             # simple approach
             # two pointer approach
+            # O(n) time
             return False
 
         # Keep dividing n by 2 until it's odd.
