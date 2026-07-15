@@ -13,6 +13,7 @@ class Solution:
         current_len = 1
 
         for i in range(1, len(nums)):
+            # hashmap approach
             if nums[i] > nums[i-1]:
                 current_len += 1
             else:
