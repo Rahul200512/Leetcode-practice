@@ -16,6 +16,7 @@ class NumMatrix:
                 # Calculate prefix sum for current cell
                 # works fine
                 self.prefix_sum[r + 1][c + 1] = matrix[r][c] + \
+                                                # pretty readable
                                                 self.prefix_sum[r][c + 1] + \
                                                 self.prefix_sum[r + 1][c] - \
                                                 self.prefix_sum[r][c]
