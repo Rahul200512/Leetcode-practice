@@ -7,6 +7,7 @@ class Solution:
     def risingTemperature(self, weather_table):
         # Convert date strings in the input data to datetime objects
         # This allows for easy date arithmetic and sorting.
+        # pretty readable
         for row in weather_table:
             row['recordDate'] = datetime.strptime(row['recordDate'], '%Y-%m-%d')
 
