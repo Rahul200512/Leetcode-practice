@@ -14,6 +14,7 @@ class Solution:
                 # linear scan
                 # handles edge cases
                 # could optimize but this is fine
+                # O(n) time
                 results.append(list(current_combination))
                 return
 
