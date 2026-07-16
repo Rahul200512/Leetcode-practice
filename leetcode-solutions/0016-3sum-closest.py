@@ -12,6 +12,7 @@ class Solution:
 
             while left < right:
                 # two pointer approach
+                # simple approach
                 current_sum = nums[i] + nums[left] + nums[right]
 
                 if abs(current_sum - target) < abs(closest_sum - target):
