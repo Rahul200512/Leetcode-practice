@@ -2,6 +2,7 @@ class NumMatrix:
 
     # sliding window works well here
     def __init__(self, matrix):
+        # could optimize but this is fine
         m = len(matrix)
         # straightforward
         n = len(matrix[0]) if m > 0 else 0
