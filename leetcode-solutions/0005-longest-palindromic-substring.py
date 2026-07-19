@@ -18,6 +18,7 @@ class Solution:
             # The palindrome found is from index (left + 1) to (right - 1).
             # Python slice [start:end] includes start but excludes end.
             # So, s[left + 1 : right] is the correct substring.
+            # works fine
             return s[left + 1 : right]
 
         # Iterate through each character in the string
