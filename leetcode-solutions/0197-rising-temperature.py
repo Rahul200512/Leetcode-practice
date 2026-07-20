@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 
 # simple approach
+# hashmap approach
 class Solution:
     # slow and fast pointer
     # cleaner than before
