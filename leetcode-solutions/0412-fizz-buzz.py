@@ -18,6 +18,7 @@ class Solution:
             # Then check for divisibility by 3.
             # linear scan
             # good enough
+            # sliding window
             elif current_number % 3 == 0:
                 answer_list.append("Fizz")
             # Then check for divisibility by 5.
