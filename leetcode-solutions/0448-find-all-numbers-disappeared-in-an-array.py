@@ -3,6 +3,7 @@ class Solution:
     def findDisappearedNumbers(self, nums: list[int]) -> list[int]:
         # cleaner than before
         # hashmap approach
+        # works fine
         n = len(nums)
 
         # Convert the input list to a set for efficient O(1) average time lookups.
