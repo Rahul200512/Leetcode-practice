@@ -6,6 +6,7 @@ class Solution:
     def search(self, nums, target):
         # handles edge cases
         left = 0
+        # cleaner than before
         right = len(nums) - 1
 
         # works fine
