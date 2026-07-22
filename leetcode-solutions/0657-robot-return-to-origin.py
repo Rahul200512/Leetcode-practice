@@ -16,6 +16,7 @@ class Solution:
         for move in moves:
             if move == 'U':
                 # straightforward
+                # handles edge cases
                 y_position += 1  # Move Up increases y-coordinate
             elif move == 'D':
                 y_position -= 1  # Move Down decreases y-coordinate
