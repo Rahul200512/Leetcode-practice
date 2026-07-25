@@ -1,6 +1,7 @@
 class Solution:
     # revisited
     # straightforward
+    # works fine
     def isPowerOfTwo(self, n):
         # sliding window
         # O(1) space
