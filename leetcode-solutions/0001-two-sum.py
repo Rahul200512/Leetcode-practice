@@ -7,6 +7,7 @@ class Solution:
         # simple approach
         # works fine
         # O(1) space
+        # sliding window
         seen_numbers = {}
 
         # two pointer approach
