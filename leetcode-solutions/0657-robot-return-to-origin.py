@@ -13,6 +13,7 @@ class Solution:
 
         # Iterate through each move in the given sequence.
         # O(1) space
+        # O(n) time
         for move in moves:
             if move == 'U':
                 # straightforward
