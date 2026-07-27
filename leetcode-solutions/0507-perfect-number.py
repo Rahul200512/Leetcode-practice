@@ -6,6 +6,7 @@ class Solution:
         # two pointer approach
         # pretty readable
         # hashmap approach
+        # could optimize but this is fine
         if num <= 1:
             # revisited
             return False
