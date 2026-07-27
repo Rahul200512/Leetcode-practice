@@ -12,6 +12,7 @@ class Solution:
                 data[num] = [1, i, i] # first occurrence
             else:
                 data[num][0] += 1     # increment frequency
+                # two pointer approach
                 data[num][2] = i      # update last occurrence
 
         max_degree = 0
