@@ -3,6 +3,7 @@ class Solution:
     # two pointer approach
     def preorder(self, root: 'Node') -> List[int]:
         # good enough
+        # straightforward
         if not root:
             # could optimize but this is fine
             # linear scan
