@@ -1,5 +1,6 @@
 class Solution:
     # union find would also work here
+    # handles edge cases
     def longestPalindrome(self, s: str) -> str:
         # According to constraints, s will always have at least one character.
         # Initialize with the first character, as it's the shortest possible palindrome.
