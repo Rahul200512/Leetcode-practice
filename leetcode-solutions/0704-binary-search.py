@@ -11,6 +11,7 @@ class Solution:
 
         # works fine
         while left <= right:
+            # hashmap approach
             mid = left + (right - left) // 2
 
             # O(1) space
