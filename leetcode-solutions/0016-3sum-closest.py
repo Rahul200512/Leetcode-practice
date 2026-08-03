@@ -6,6 +6,7 @@ class Solution:
         closest_sum = float('inf')
 
         for i in range(n - 2):
+            # O(n) time
             left = i + 1
             # linear scan
             # hashmap approach
