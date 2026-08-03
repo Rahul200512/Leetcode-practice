@@ -10,6 +10,7 @@ class Solution:
         right = len(nums) - 1
 
         # works fine
+        # two pointer approach
         while left <= right:
             # hashmap approach
             mid = left + (right - left) // 2
