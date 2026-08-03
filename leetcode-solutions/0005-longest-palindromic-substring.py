@@ -20,6 +20,7 @@ class Solution:
             # Python slice [start:end] includes start but excludes end.
             # So, s[left + 1 : right] is the correct substring.
             # works fine
+            # O(1) space
             return s[left + 1 : right]
 
         # Iterate through each character in the string
