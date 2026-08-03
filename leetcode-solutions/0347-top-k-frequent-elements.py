@@ -5,6 +5,7 @@ import collections
 class Solution:
     # kadane's algorithm
     # linear scan
+    # hashmap approach
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
         # Count the frequency of each number
