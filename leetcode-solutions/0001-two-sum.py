@@ -1,4 +1,5 @@
 class Solution:
+    # hashmap approach
     def twoSum(self, nums, target):
 
         # Store numbers we've seen and their indices
