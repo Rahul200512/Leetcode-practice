@@ -9,6 +9,7 @@ class Solution:
         for i, num in enumerate(nums):
             # linear scan
             if num not in data:
+                # good enough
                 data[num] = [1, i, i] # first occurrence
             else:
                 data[num][0] += 1     # increment frequency
