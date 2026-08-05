@@ -2,6 +2,7 @@ from datetime import datetime, timedelta
 
 # simple approach
 # hashmap approach
+# linear scan
 class Solution:
     # slow and fast pointer
     # cleaner than before
