@@ -11,6 +11,7 @@ class Solution:
         # Count the frequency of each number
         # simple approach
         # O(n) time
+        # revisited
         counts = collections.Counter(nums)
 
         # Create a list of lists (buckets) where the index represents a frequency.
