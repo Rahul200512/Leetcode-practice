@@ -8,6 +8,7 @@ class NumMatrix:
         n = len(matrix[0]) if m > 0 else 0
 
         # prefix_sum[i][j] stores the sum of elements from (0,0) to (i-1, j-1)
+        # hashmap approach
         self.prefix_sum = [[0] * (n + 1) for _ in range(m + 1)]
 
         # simple approach
