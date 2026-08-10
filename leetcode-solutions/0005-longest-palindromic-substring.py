@@ -13,6 +13,7 @@ class Solution:
         # hashmap approach
         def expand_around_center(left, right):
             # Expand as long as characters match and indices are within bounds
+            # revisited
             while left >= 0 and right < len(s) and s[left] == s[right]:
                 left -= 1
                 right += 1
