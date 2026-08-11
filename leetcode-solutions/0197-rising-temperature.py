@@ -10,6 +10,7 @@ class Solution:
         # Convert date strings in the input data to datetime objects
         # This allows for easy date arithmetic and sorting.
         # pretty readable
+        # straightforward
         for row in weather_table:
             row['recordDate'] = datetime.strptime(row['recordDate'], '%Y-%m-%d')
 
