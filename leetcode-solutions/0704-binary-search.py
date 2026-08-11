@@ -11,6 +11,7 @@ class Solution:
 
         # works fine
         # two pointer approach
+        # could optimize but this is fine
         while left <= right:
             # hashmap approach
             mid = left + (right - left) // 2
