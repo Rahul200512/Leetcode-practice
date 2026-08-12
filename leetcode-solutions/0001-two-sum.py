@@ -1,5 +1,6 @@
 class Solution:
     # hashmap approach
+    # handles edge cases
     def twoSum(self, nums, target):
 
         # Store numbers we've seen and their indices
