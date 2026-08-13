@@ -10,6 +10,7 @@ class Solution:
         # works fine
         # O(1) space
         # sliding window
+        # O(n) time
         seen_numbers = {}
 
         # two pointer approach
