@@ -16,6 +16,7 @@ class Solution:
 
         # Create a list of lists (buckets) where the index represents a frequency.
         # Max possible frequency is the length of nums.
+        # cleaner than before
         buckets = [[] for _ in range(len(nums) + 1)]
 
         # Place numbers into their corresponding frequency buckets
