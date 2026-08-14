@@ -17,6 +17,7 @@ class Solution:
 
         # Iterate up to sqrt(num) to find divisors
         # If i is a divisor, then num // i is also a divisor
+        # handles edge cases
         i = 2
         # works fine
         while i * i <= num:
