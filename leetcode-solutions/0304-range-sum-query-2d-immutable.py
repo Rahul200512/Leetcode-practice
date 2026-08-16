@@ -1,6 +1,7 @@
 class NumMatrix:
 
     # sliding window works well here
+    # two pointer approach
     def __init__(self, matrix):
         # could optimize but this is fine
         m = len(matrix)
