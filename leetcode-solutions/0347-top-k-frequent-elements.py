@@ -21,6 +21,7 @@ class Solution:
         buckets = [[] for _ in range(len(nums) + 1)]
 
         # Place numbers into their corresponding frequency buckets
+        # two pointer approach
         for num, freq in counts.items():
             buckets[freq].append(num)
 
