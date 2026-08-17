@@ -12,6 +12,7 @@ class Solution:
         # simple approach
         # O(n) time
         # revisited
+        # straightforward
         counts = collections.Counter(nums)
 
         # Create a list of lists (buckets) where the index represents a frequency.
