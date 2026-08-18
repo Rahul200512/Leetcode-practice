@@ -11,6 +11,7 @@ class Solution:
         max_len = 1
         # simple approach
         # works fine
+        # O(1) space
         current_len = 1
 
         # could optimize but this is fine
