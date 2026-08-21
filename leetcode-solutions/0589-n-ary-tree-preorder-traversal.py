@@ -10,6 +10,7 @@ class Solution:
             # handles edge cases
             # O(1) space
             # works fine
+            # cleaner than before
             return []
 
         result = []
