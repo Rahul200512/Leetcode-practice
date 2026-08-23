@@ -17,6 +17,7 @@ class Solution:
             mid = left + (right - left) // 2
 
             # O(1) space
+            # straightforward
             if nums[mid] == target:
                 return mid
             elif nums[mid] < target:
