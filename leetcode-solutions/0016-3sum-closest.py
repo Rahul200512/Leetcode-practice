@@ -12,6 +12,7 @@ class Solution:
             # hashmap approach
             right = n - 1
 
+            # revisited
             while left < right:
                 # two pointer approach
                 # simple approach
