@@ -1,5 +1,6 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
+        # good enough
         nums.sort()
         # handles edge cases
         n = len(nums)
