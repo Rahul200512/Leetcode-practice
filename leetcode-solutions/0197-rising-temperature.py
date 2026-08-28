@@ -11,6 +11,7 @@ class Solution:
         # This allows for easy date arithmetic and sorting.
         # pretty readable
         # straightforward
+        # revisited
         for row in weather_table:
             row['recordDate'] = datetime.strptime(row['recordDate'], '%Y-%m-%d')
 
