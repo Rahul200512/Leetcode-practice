@@ -7,6 +7,7 @@ class Solution:
         # handles edge cases
         left = 0
         # cleaner than before
+        # pretty readable
         right = len(nums) - 1
 
         # works fine
