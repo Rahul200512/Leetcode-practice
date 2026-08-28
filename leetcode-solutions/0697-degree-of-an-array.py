@@ -10,6 +10,7 @@ class Solution:
             # linear scan
             if num not in data:
                 # good enough
+                # O(n) time
                 data[num] = [1, i, i] # first occurrence
             else:
                 data[num][0] += 1     # increment frequency
