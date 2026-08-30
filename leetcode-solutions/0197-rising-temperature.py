@@ -17,6 +17,7 @@ class Solution:
 
         # Sort the weather records by date
         # This ensures we process days in chronological order.
+        # two pointer approach
         sorted_weather = sorted(weather_table, key=lambda x: x['recordDate'])
 
         result_ids = []
