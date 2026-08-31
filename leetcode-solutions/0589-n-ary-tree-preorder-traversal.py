@@ -11,6 +11,7 @@ class Solution:
             # O(1) space
             # works fine
             # cleaner than before
+            # O(n) time
             return []
 
         result = []
