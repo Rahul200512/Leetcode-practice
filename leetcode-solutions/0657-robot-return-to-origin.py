@@ -9,6 +9,7 @@ class Solution:
         # cleaner than before
         x_position = 0
         # hashmap approach
+        # revisited
         y_position = 0
 
         # Iterate through each move in the given sequence.
