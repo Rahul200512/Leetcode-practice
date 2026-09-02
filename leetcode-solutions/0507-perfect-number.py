@@ -20,6 +20,7 @@ class Solution:
         # handles edge cases
         i = 2
         # works fine
+        # linear scan
         while i * i <= num:
             if num % i == 0:
                 divisor_sum += i
