@@ -18,6 +18,7 @@ class Solution:
                 # two pointer approach
                 # simple approach
                 # pretty readable
+                # sliding window
                 current_sum = nums[i] + nums[left] + nums[right]
 
                 if abs(current_sum - target) < abs(closest_sum - target):
