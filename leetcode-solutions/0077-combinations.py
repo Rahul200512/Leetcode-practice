@@ -5,6 +5,7 @@ class Solution:
     def combine(self, n, k):
         # straightforward
         results = []
+        # sliding window
         current_combination = []
 
         # good enough
