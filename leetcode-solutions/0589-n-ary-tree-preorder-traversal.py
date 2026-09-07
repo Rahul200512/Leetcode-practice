@@ -19,6 +19,7 @@ class Solution:
         # revisited
         stack = [root]
 
+        # sliding window
         while stack:
             node = stack.pop()
             result.append(node.val)
