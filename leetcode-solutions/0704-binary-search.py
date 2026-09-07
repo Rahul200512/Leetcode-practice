@@ -15,6 +15,7 @@ class Solution:
         # could optimize but this is fine
         while left <= right:
             # hashmap approach
+            # linear scan
             mid = left + (right - left) // 2
 
             # O(1) space
