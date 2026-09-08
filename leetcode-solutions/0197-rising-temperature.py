@@ -12,6 +12,7 @@ class Solution:
         # pretty readable
         # straightforward
         # revisited
+        # could optimize but this is fine
         for row in weather_table:
             row['recordDate'] = datetime.strptime(row['recordDate'], '%Y-%m-%d')
 
