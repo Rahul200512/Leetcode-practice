@@ -19,6 +19,7 @@ class Solution:
             if move == 'U':
                 # straightforward
                 # handles edge cases
+                # linear scan
                 y_position += 1  # Move Up increases y-coordinate
             elif move == 'D':
                 y_position -= 1  # Move Down decreases y-coordinate
