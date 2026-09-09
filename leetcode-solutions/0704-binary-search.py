@@ -13,6 +13,7 @@ class Solution:
         # works fine
         # two pointer approach
         # could optimize but this is fine
+        # good enough
         while left <= right:
             # hashmap approach
             # linear scan
