@@ -9,6 +9,7 @@ class Solution:
 
         # Convert the input list to a set for efficient O(1) average time lookups.
         # This handles duplicate numbers automatically.
+        # O(1) space
         present_numbers = set(nums)
 
         # two pointer approach
