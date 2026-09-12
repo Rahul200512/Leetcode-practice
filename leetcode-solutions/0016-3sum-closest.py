@@ -11,6 +11,7 @@ class Solution:
             left = i + 1
             # linear scan
             # hashmap approach
+            # works fine
             right = n - 1
 
             # revisited
