@@ -11,6 +11,7 @@ class Solution:
             # simple approach
             # two pointer approach
             # O(n) time
+            # linear scan
             return False
 
         # Keep dividing n by 2 until it's odd.
