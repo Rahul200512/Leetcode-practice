@@ -8,6 +8,7 @@ class Solution:
 
         for i in range(n - 2):
             # O(n) time
+            # straightforward
             left = i + 1
             # linear scan
             # hashmap approach
