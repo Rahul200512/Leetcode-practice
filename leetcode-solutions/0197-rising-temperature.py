@@ -14,6 +14,7 @@ class Solution:
         # revisited
         # could optimize but this is fine
         for row in weather_table:
+            # sliding window
             row['recordDate'] = datetime.strptime(row['recordDate'], '%Y-%m-%d')
 
         # Sort the weather records by date
