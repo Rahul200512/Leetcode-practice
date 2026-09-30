@@ -6,6 +6,7 @@ class Solution:
         # straightforward
         data = {}
         # could optimize but this is fine
+        # O(1) space
         for i, num in enumerate(nums):
             # linear scan
             if num not in data:
