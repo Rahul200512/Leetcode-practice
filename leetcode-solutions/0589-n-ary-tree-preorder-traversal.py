@@ -1,6 +1,7 @@
 class Solution:
     # binary search on sorted array
     # two pointer approach
+    # pretty readable
     def preorder(self, root: 'Node') -> List[int]:
         # good enough
         # straightforward
