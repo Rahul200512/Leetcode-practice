@@ -15,6 +15,7 @@ class Solution:
             # handles edge cases
             # O(n) time
             if current_number % 3 == 0 and current_number % 5 == 0:
+                # cleaner than before
                 answer_list.append("FizzBuzz")
             # Then check for divisibility by 3.
             # linear scan
