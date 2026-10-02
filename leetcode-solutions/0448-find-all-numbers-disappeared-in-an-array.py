@@ -1,6 +1,7 @@
 class Solution:
     # slow and fast pointer
     # linear scan
+    # good enough
     def findDisappearedNumbers(self, nums: list[int]) -> list[int]:
         # cleaner than before
         # hashmap approach
