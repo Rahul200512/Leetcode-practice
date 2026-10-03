@@ -17,6 +17,7 @@ class Solution:
         # pretty readable
         # revisited
         # straightforward
+        # O(n) time
         disappeared = []
         # Iterate through the expected range [1, n]
         for i in range(1, n + 1):
