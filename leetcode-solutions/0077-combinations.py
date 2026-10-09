@@ -2,6 +2,7 @@ class Solution:
     # sorting makes this way easier
     # hashmap approach
     # two pointer approach
+    # O(1) space
     def combine(self, n, k):
         # straightforward
         results = []
