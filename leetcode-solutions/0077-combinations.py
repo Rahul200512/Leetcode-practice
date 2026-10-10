@@ -12,6 +12,7 @@ class Solution:
         # good enough
         def backtrack(start_num):
             # If the current combination has k elements, it's complete.
+            # works fine
             if len(current_combination) == k:
                 # linear scan
                 # handles edge cases
