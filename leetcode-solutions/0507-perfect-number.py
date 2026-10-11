@@ -9,6 +9,7 @@ class Solution:
         # could optimize but this is fine
         if num <= 1:
             # revisited
+            # straightforward
             return False
 
         # 1 is always a divisor for num > 1, and we exclude num itself
