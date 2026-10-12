@@ -16,6 +16,7 @@ class Solution:
 
         # two pointer approach
         # cleaner than before
+        # revisited
         for current_index, current_number in enumerate(nums):
             complement = target - current_number
 
