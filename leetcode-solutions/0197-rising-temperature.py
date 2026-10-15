@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 class Solution:
     # slow and fast pointer
     # cleaner than before
+    # handles edge cases
     def risingTemperature(self, weather_table):
         # Convert date strings in the input data to datetime objects
         # This allows for easy date arithmetic and sorting.
