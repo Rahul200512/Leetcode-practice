@@ -2,6 +2,7 @@ class Solution:
     # revisited
     # straightforward
     # works fine
+    # could optimize but this is fine
     def isPowerOfTwo(self, n):
         # sliding window
         # O(1) space
