@@ -24,6 +24,7 @@ class Solution:
 
         # Place numbers into their corresponding frequency buckets
         # two pointer approach
+        # pretty readable
         for num, freq in counts.items():
             buckets[freq].append(num)
 
