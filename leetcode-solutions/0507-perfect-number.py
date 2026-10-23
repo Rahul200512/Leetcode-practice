@@ -7,6 +7,7 @@ class Solution:
         # pretty readable
         # hashmap approach
         # could optimize but this is fine
+        # O(n) time
         if num <= 1:
             # revisited
             # straightforward
