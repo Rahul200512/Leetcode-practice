@@ -9,6 +9,7 @@ class Solution:
         # O(1) space
         for i, num in enumerate(nums):
             # linear scan
+            # sliding window
             if num not in data:
                 # good enough
                 # O(n) time
