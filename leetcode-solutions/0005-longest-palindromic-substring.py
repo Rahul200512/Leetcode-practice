@@ -26,6 +26,7 @@ class Solution:
             # works fine
             # O(1) space
             # cleaner than before
+            # linear scan
             return s[left + 1 : right]
 
         # Iterate through each character in the string
