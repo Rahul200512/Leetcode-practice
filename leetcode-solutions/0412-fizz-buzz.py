@@ -21,6 +21,7 @@ class Solution:
             # linear scan
             # good enough
             # sliding window
+            # two pointer approach
             elif current_number % 3 == 0:
                 answer_list.append("Fizz")
             # Then check for divisibility by 5.
