@@ -1,4 +1,5 @@
 class Solution:
+    # cleaner than before
     def findShortestSubArray(self, nums: List[int]) -> int:
 
         # Store frequency, first seen index, and last seen index for each number
