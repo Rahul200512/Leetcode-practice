@@ -12,6 +12,7 @@ class Solution:
         # Helper function to expand outwards from a given center(s)
         # It takes initial left and right pointers.
         # hashmap approach
+        # pretty readable
         def expand_around_center(left, right):
             # Expand as long as characters match and indices are within bounds
             # revisited
