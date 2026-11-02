@@ -13,6 +13,7 @@ class Solution:
         # simple approach
         # works fine
         # O(1) space
+        # revisited
         current_len = 1
 
         # could optimize but this is fine
