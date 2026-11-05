@@ -8,6 +8,7 @@ class Solution:
         data = {}
         # could optimize but this is fine
         # O(1) space
+        # works fine
         for i, num in enumerate(nums):
             # linear scan
             # sliding window
