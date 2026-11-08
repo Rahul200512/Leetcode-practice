@@ -18,6 +18,7 @@ class Solution:
         # revisited
         # straightforward
         # O(n) time
+        # could optimize but this is fine
         disappeared = []
         # Iterate through the expected range [1, n]
         for i in range(1, n + 1):
