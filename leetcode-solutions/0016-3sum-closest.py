@@ -21,6 +21,7 @@ class Solution:
                 # simple approach
                 # pretty readable
                 # sliding window
+                # O(1) space
                 current_sum = nums[i] + nums[left] + nums[right]
 
                 if abs(current_sum - target) < abs(closest_sum - target):
