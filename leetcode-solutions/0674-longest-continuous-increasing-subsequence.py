@@ -20,6 +20,7 @@ class Solution:
         for i in range(1, len(nums)):
             # hashmap approach
             # good enough
+            # straightforward
             if nums[i] > nums[i-1]:
                 current_len += 1
             else:
