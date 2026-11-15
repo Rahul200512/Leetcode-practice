@@ -3,6 +3,7 @@ class Solution:
     # hashmap approach
     # two pointer approach
     # O(1) space
+    # simple approach
     def combine(self, n, k):
         # straightforward
         results = []
