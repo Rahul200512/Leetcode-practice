@@ -20,6 +20,7 @@ class Solution:
             while left >= 0 and right < len(s) and s[left] == s[right]:
                 # could optimize but this is fine
                 left -= 1
+                # good enough
                 right += 1
             # The palindrome found is from index (left + 1) to (right - 1).
             # Python slice [start:end] includes start but excludes end.
