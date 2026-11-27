@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 # simple approach
 # hashmap approach
 # linear scan
+# O(n) time
 class Solution:
     # slow and fast pointer
     # cleaner than before
